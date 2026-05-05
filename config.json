@@ -1,0 +1,14 @@
+{
+    "source_dir": "F:/Business Dropbox/Tran Vinh/Tài Nguyên Dựng Phim/Tài Nguyên Tổng Hợp/Kho Nhạc",
+    "dest_root": "F:/Business Dropbox/Tran Vinh/Tài Nguyên Dựng Phim/Tài Nguyên Tổng Hợp/Kho Nhạc",
+    "update_url": "http://127.0.0.1:8000/version.json",
+    "categories": [
+        "Nhạc Trung",
+        "Nhạc Không Lời",
+        "Cinema",
+        "Nhạc Việt",
+        "Nhạc US - UK",
+        "Nhạc Hàn",
+        "Nhạc Quê"
+    ]
+}
