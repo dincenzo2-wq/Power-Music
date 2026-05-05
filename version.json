@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "changelog": "- Tích hợp hệ thống Auto-Update chuyên nghiệp\n- Fix lỗi font chữ và giao diện Dark Mode",
+  "files": {
+    "music_organizer.py": "https://raw.githubusercontent.com/dincenzo2-wq/Power-Music/main/music_organizer.py",
+    "drag_source.py": "https://raw.githubusercontent.com/dincenzo2-wq/Power-Music/main/drag_source.py"
+  }
+}
